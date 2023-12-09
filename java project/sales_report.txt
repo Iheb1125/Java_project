@@ -1,0 +1,13 @@
+Sales Report:
+Transaction ID: 1
+Product: Makarouna
+Quantity: 60000
+Date: 2023-12-09
+Transaction Type: PURCHASE
+------------------------------
+Transaction ID: 2
+Product: PC
+Quantity: 450
+Date: 2023-12-09
+Transaction Type: PURCHASE
+------------------------------

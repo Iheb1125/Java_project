@@ -1,0 +1,4 @@
+1,PC,450,506.0,electronics
+2,PC,450,506.0,electronics
+3,karahba ,500,50000.0,vehicle
+4,Makarouna,10000,0.45,food
